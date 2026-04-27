@@ -4,24 +4,31 @@ A workaround script to achieve similar system like the multishader (only working
 It batch batch imports images from a selected folder and writes all necessary ports in the OSL and connects them all.
 
 ## Requirements
-- Cinema 4D 2025+
+
+* Cinema 4D 2025+
 
 ## Installation
+
 1. Script in C4D Script Manager öffnen
 2. Ausführen
 
 ## Usage
+
 Create/Select a OSL Shader ---> run the script ---> choose image folder
 Modes: sequential/random
 
 By default it creates also an USER DATA with RSMG as Index Input. This drives by default a cloner system, but can be changed with another USER DATA of your own choosing.
 
 ## Screenshot
-![Preview](Preview Cloner RS MultiShader OSLfeeder 0.2.jpg)
-![Preview](Preview Node Tree RS MultiShader OSLfeeder 0.2.jpg)
+
+!\[Preview](Preview\_Cloner\_ MultiShader\_OSLfeeder\_0.2.jpg)
+!\[Preview](Preview\_NodeTree \_MultiShader OSLfeeder\_0.2.jpg)
 
 ## Author
+
 RiesiSir
 
 ## Lizenz
+
 MIT License
+
