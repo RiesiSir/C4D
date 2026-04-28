@@ -1,4 +1,4 @@
-# Script Name
+# RS MultiShader OSLfeeder
 
 A workaround script to achieve similar system like the multishader (only working in the old shader graph) in the node editor.
 It batch batch imports images from a selected folder and writes all necessary ports in the OSL and connects them all.
