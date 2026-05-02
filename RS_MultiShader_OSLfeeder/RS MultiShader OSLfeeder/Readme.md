@@ -1,7 +1,7 @@
 # RS MultiShader OSLfeeder
 
-A workaround script to achieve similar system like the multishader (only working in the old shader graph) in the node editor.
-It batch batch imports images from a selected folder and writes all necessary ports in the OSL and connects them all.
+A workaround script to achieve similar system like the multishader (only working in the old shader graph) for the node editor.
+It batch imports images from a selected folder and writes all necessary ports in the OSL and connects them all.
 
 ## Requirements
 
@@ -9,8 +9,8 @@ It batch batch imports images from a selected folder and writes all necessary po
 
 ## Installation
 
-1. Script in C4D Script Manager öffnen
-2. Ausführen
+1. Paste Script in C4D Script Manager
+2. run only once or save script as you like
 
 ## Usage
 
@@ -26,11 +26,7 @@ By default it creates also an USER DATA with RSMG as Index Input. This drives by
 
 ![Preview](Preview_NodeTree_MultiShader_OSLfeeder_0.2.jpg)
 
-## Author
-
-RiesiSir
-
-## Lizenz
+## License
 
 MIT License
 
