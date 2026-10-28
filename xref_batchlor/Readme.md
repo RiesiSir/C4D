@@ -87,8 +87,8 @@ Process and final Statistics (How much Objects are found, skipped, overwritten, 
 
 ## Demonstrations
 
-![Preview](xref_batchlor_demo.mp4)
-![Preview](xref_batchlor_relink.mp4)
+![Preview](xref_batchlor_demo.gif)
+![Preview](xref_batchlor_relink.gif)
 
 ## License
 
